@@ -65,17 +65,3 @@ cd frontend
 npm run dev
 ```
 The frontend will run on `http://localhost:5173`
-
-### Production Mode
-
-**Build Frontend:**
-```bash
-cd frontend
-npm run build
-```
-
-**Start Backend:**
-```bash
-cd backend
-npm start
-```
